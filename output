@@ -1,0 +1,20 @@
+
+
+	{'train no':
+		[	{'class':'first','unit price':'210','departuredatetime':'10.30','arrivaltime':'12.30'},
+		{'class':'standard','unit price':'400','departuredatetime':'10.30','arrivaltime':'12.30'} ],
+		
+	'0809':
+	
+		[	{'class':'first','unit price':'210','departuredatetime':'10.30','arrivaltime':'12.30'},
+		{'class':'standard','unit price':'400','departuredatetime':'10.30','arrivaltime':'12.30'} ],
+		
+	'0904':
+		[	{'class':'first','unit price':'210','departuredatetime':'10.30','arrivaltime':'12.30'},
+		{'class':'standard','unit price':'400','departuredatetime':'10.30','arrivaltime':'12.30'} ],
+		
+		
+	}
+	
+
+
